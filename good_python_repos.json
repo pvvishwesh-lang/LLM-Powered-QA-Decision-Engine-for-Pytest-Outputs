@@ -1,0 +1,177 @@
+[
+  {
+    "name": "stable-diffusion-webui",
+    "owner": "AUTOMATIC1111",
+    "stars": 159255,
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui.git",
+    "updated_at": "2025-12-25T01:40:34Z"
+  },
+  {
+    "name": "yt-dlp",
+    "owner": "yt-dlp",
+    "stars": 139393,
+    "url": "https://github.com/yt-dlp/yt-dlp.git",
+    "updated_at": "2025-12-25T01:48:37Z"
+  },
+  {
+    "name": "ComfyUI",
+    "owner": "comfyanonymous",
+    "stars": 97987,
+    "url": "https://github.com/comfyanonymous/ComfyUI.git",
+    "updated_at": "2025-12-25T01:50:27Z"
+  },
+  {
+    "name": "whisper",
+    "owner": "openai",
+    "stars": 92333,
+    "url": "https://github.com/openai/whisper.git",
+    "updated_at": "2025-12-25T01:52:21Z"
+  },
+  {
+    "name": "devops-exercises",
+    "owner": "bregman-arie",
+    "stars": 80337,
+    "url": "https://github.com/bregman-arie/devops-exercises.git",
+    "updated_at": "2025-12-24T23:16:31Z"
+  },
+  {
+    "name": "browser-use",
+    "owner": "browser-use",
+    "stars": 74103,
+    "url": "https://github.com/browser-use/browser-use.git",
+    "updated_at": "2025-12-25T01:32:33Z"
+  },
+  {
+    "name": "ragflow",
+    "owner": "infiniflow",
+    "stars": 70372,
+    "url": "https://github.com/infiniflow/ragflow.git",
+    "updated_at": "2025-12-25T01:59:21Z"
+  },
+  {
+    "name": "gpt_academic",
+    "owner": "binary-husky",
+    "stars": 69870,
+    "url": "https://github.com/binary-husky/gpt_academic.git",
+    "updated_at": "2025-12-25T01:31:04Z"
+  },
+  {
+    "name": "PaddleOCR",
+    "owner": "PaddlePaddle",
+    "stars": 66784,
+    "url": "https://github.com/PaddlePaddle/PaddleOCR.git",
+    "updated_at": "2025-12-25T01:56:39Z"
+  },
+  {
+    "name": "vllm",
+    "owner": "vllm-project",
+    "stars": 66118,
+    "url": "https://github.com/vllm-project/vllm.git",
+    "updated_at": "2025-12-25T01:57:51Z"
+  },
+  {
+    "name": "OpenHands",
+    "owner": "OpenHands",
+    "stars": 65907,
+    "url": "https://github.com/OpenHands/OpenHands.git",
+    "updated_at": "2025-12-25T01:51:57Z"
+  },
+  {
+    "name": "LLaMA-Factory",
+    "owner": "hiyouga",
+    "stars": 64435,
+    "url": "https://github.com/hiyouga/LLaMA-Factory.git",
+    "updated_at": "2025-12-25T01:53:59Z"
+  },
+  {
+    "name": "MetaGPT",
+    "owner": "FoundationAgents",
+    "stars": 61516,
+    "url": "https://github.com/FoundationAgents/MetaGPT.git",
+    "updated_at": "2025-12-25T01:49:33Z"
+  },
+  {
+    "name": "open-interpreter",
+    "owner": "openinterpreter",
+    "stars": 61267,
+    "url": "https://github.com/openinterpreter/open-interpreter.git",
+    "updated_at": "2025-12-25T01:03:01Z"
+  },
+  {
+    "name": "Real-Time-Voice-Cloning",
+    "owner": "CorentinJ",
+    "stars": 59070,
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning.git",
+    "updated_at": "2025-12-25T00:26:16Z"
+  },
+  {
+    "name": "crawl4ai",
+    "owner": "unclecode",
+    "stars": 57632,
+    "url": "https://github.com/unclecode/crawl4ai.git",
+    "updated_at": "2025-12-25T01:54:54Z"
+  },
+  {
+    "name": "private-gpt",
+    "owner": "zylon-ai",
+    "stars": 56925,
+    "url": "https://github.com/zylon-ai/private-gpt.git",
+    "updated_at": "2025-12-24T20:57:33Z"
+  },
+  {
+    "name": "gpt-engineer",
+    "owner": "AntonOsika",
+    "stars": 55143,
+    "url": "https://github.com/AntonOsika/gpt-engineer.git",
+    "updated_at": "2025-12-25T00:29:52Z"
+  },
+  {
+    "name": "rich",
+    "owner": "Textualize",
+    "stars": 54873,
+    "url": "https://github.com/Textualize/rich.git",
+    "updated_at": "2025-12-24T22:18:31Z"
+  },
+  {
+    "name": "OpenManus",
+    "owner": "FoundationAgents",
+    "stars": 51442,
+    "url": "https://github.com/FoundationAgents/OpenManus.git",
+    "updated_at": "2025-12-25T01:16:50Z"
+  },
+  {
+    "name": "pathway",
+    "owner": "pathwaycom",
+    "stars": 51034,
+    "url": "https://github.com/pathwaycom/pathway.git",
+    "updated_at": "2025-12-25T01:19:41Z"
+  },
+  {
+    "name": "MinerU",
+    "owner": "opendatalab",
+    "stars": 50972,
+    "url": "https://github.com/opendatalab/MinerU.git",
+    "updated_at": "2025-12-25T01:44:39Z"
+  },
+  {
+    "name": "ultralytics",
+    "owner": "ultralytics",
+    "stars": 50299,
+    "url": "https://github.com/ultralytics/ultralytics.git",
+    "updated_at": "2025-12-25T01:47:49Z"
+  },
+  {
+    "name": "unsloth",
+    "owner": "unslothai",
+    "stars": 49868,
+    "url": "https://github.com/unslothai/unsloth.git",
+    "updated_at": "2025-12-24T23:41:17Z"
+  },
+  {
+    "name": "docling",
+    "owner": "docling-project",
+    "stars": 47699,
+    "url": "https://github.com/docling-project/docling.git",
+    "updated_at": "2025-12-25T01:30:46Z"
+  }
+]
